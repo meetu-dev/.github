@@ -15,12 +15,7 @@
 
 下载体验地址：
 
-https://aidea.aicode.cc
 
-开源代码：
-
-- 客户端：https://github.com/mylxsw/aidea
-- 服务端：https://github.com/mylxsw/aidea-server
 
 ## 私有化部署
 
@@ -28,42 +23,7 @@ https://aidea.aicode.cc
 
 不想自己折腾，可以找我来帮你部署，详情参考 [服务器代部署说明](https://github.com/mylxsw/aidea-server/blob/main/docs/deploy-vip.md)。
 
-## 技术交流
-
-- 微信技术交流群：3 个群都已满员，添加微信号 `x-prometheus` 为好友，拉你进群
-
-    <img src="https://github.com/mylxsw/aidea/assets/2330911/655601c1-9371-4460-9657-c58521260336" width="200"/>
-
-- 微信公众号
-
-    <img src="https://github.com/mylxsw/aidea-server/assets/2330911/376a3b9f-eacd-45c6-9630-39eb720ba097" width="500" />
-
-- 电报群：[点此加入](https://t.me/aideachat)
-
-
-## APP 截图
-
-亮色系
-
-![image](https://github.com/mylxsw/aidea/assets/2330911/89fc3f6f-b110-45f4-9e9a-b43a7a2c011a)
-
-暗色系
-
-![image](https://github.com/mylxsw/aidea/assets/2330911/7c0167eb-4bd3-4dcb-8b7b-a6d22cebe3ae)
-
-
-## Star History
-
-<a href="https://star-history.com/#mylxsw/aidea&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mylxsw/aidea&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mylxsw/aidea&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mylxsw/aidea&type=Date" />
-  </picture>
-</a>
 
 ## License
 
-MIT
 
-Copyright (c) 2023, mylxsw
