@@ -8,6 +8,6 @@
 - 支持开源大模型：Llama2，ChatGLM2，AquilaChat 7B，Bloomz 7B 等，后续还将开放更多
 - 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-下载体验地址：https://meetu.dev
+下载体验地址：https://i.meetu.dev
 
 
